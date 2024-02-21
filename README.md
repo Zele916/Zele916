@@ -32,7 +32,7 @@ A community forum for discussions on various topics.
 ### [Zele Netflix Movies](https://zelenetflixmovies.netlify.app/)
 A movie browsing application similar to Netflix, featuring a vast catalog of movies.
 
-I’m best reached via email. I’m always open to interesting conversations and collaboration.
+### I’m best reached via email. I’m always open to interesting conversations and collaboration.
 
 - 📧 Email: [enana082014@gmail.com](mailto:enana082014@gmail.com)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/zelalem-wondimu-126b592b4/](https://www.linkedin.com/in/zelalem-wondimu-126b592b4/)
