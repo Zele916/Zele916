@@ -1,7 +1,8 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Zele916&color=blue" alt="Profile Views">
 </p>
-                          <h2 style="font-size:24px;">Welcome 👋 I'm Zelalem Wondimu</h2>
+                         <h2 align="center">Welcome 👋 I'm Zelalem Wondimu</h2>
+
 
 
 #
