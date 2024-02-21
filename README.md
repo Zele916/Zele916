@@ -23,13 +23,14 @@ As I continue to advance my skills and contribute to the tech community, I am ke
 
 Here are some of the projects I've worked on:
 
-### [Evangadi Forums](https://evangadi-forumz2024.netlify.app/)
+### [Amazon Clone](https://amzonz.netlify.app/)
+
 A community forum for discussions on various topics.
 
-### [Amazon Clone](https://amzonz.netlify.app/)
+### [Zele Netflix Movies](https://zelenetflixmovies.netlify.app/)
 A clone of the Amazon website, featuring dynamic shopping cart functionality.
 
-### [Zele Netflix Movies](https://zelenetflixmovies.netlify.app/)
+### [Evangadi Forums](https://evangadi-forumz2024.netlify.app/)
 A movie browsing application similar to Netflix, featuring a vast catalog of movies.
 
 I’m best reached via email. I’m always open to interesting conversations and collaboration.
