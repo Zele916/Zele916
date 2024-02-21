@@ -1,12 +1,8 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Zele916&color=blue" alt="Profile Views">
 </p>
-                        <h2 align="center" style="color: #ff6347;">Welcome 👋 I'm Zelalem Wondimu</h2>
+<h2 align="center" style="color: #ff6347;">Welcome 👋 I'm Zelalem Wondimu</h2>
 
-
-
-
-#
 I'm a Full-Stock Web Development Enthusiast driven by a passion for creating digital experiences that leave a lasting impact. My journey transcends mere code—it is about weaving the fabric of engaging user experiences, igniting transformations, and fostering innovation. As we journey together, our collaborative efforts will turn bold ideas into vivid realities, piece by piece, line by line.
 
 In the realm of development, I have refined a versatile skill set that includes:
@@ -23,10 +19,24 @@ In the realm of development, I have refined a versatile skill set that includes:
 
 As I continue to advance my skills and contribute to the tech community, I am keen on collaborating with like-minded individuals and teams who are not afraid to push the envelope. Let's connect the dots for a smarter, more interconnected digital future.
 
-### I’m best reached via email. I’m always open to interesting conversations and collaboration.
+## My Projects
 
-- 📧 Email: [enana082014@gmail.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/zelalem-wondimu-126b592b4/)
+Here are some of the projects I've worked on:
+
+### [Evangadi Forums](https://evangadi-forumz2024.netlify.app/)
+A community forum for discussions on various topics.
+
+### [Amazon Clone](https://amzonz.netlify.app/)
+A clone of the Amazon website, featuring dynamic shopping cart functionality.
+
+### [Zele Netflix Movies](https://zelenetflixmovies.netlify.app/)
+A movie browsing application similar to Netflix, featuring a vast catalog of movies.
+
+I’m best reached via email. I’m always open to interesting conversations and collaboration.
+
+- 📧 Email: [enana082014@gmail.com](mailto:enana082014@gmail.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/zelalem-wondimu-126b592b4/](https://www.linkedin.com/in/zelalem-wondimu-126b592b4/)
+
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
