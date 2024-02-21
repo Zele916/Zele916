@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Zele916&color=blue" alt="Profile Views">
 </p>
 ###  Welcome 👋I'm Zelalem Wondimu 
-![Profile Picture](https://github.com/Zele916.png?size=100)
+
 #
 I'm a Full-Stock Web Development Enthusiast driven by a passion for creating digital experiences that leave a lasting impact. My journey transcends mere code—it is about weaving the fabric of engaging user experiences, igniting transformations, and fostering innovation. As we journey together, our collaborative efforts will turn bold ideas into vivid realities, piece by piece, line by line.
 
