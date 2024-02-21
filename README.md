@@ -23,17 +23,21 @@ As I continue to advance my skills and contribute to the tech community, I am ke
 
 Here are some of the projects I've worked on:
 
-### [Amazon Clone](https://amzonz.netlify.app/)
-
+### Evangadi-Forum
+![Evangadi-Forum Screenshot](link-to-evangadi-forum-screenshot)
 A community forum for discussions on various topics.
+[Visit Evangadi-Forum](https://evangadi-forumz2024.netlify.app/)
 
-### [Zele Netflix Movies](https://zelenetflixmovies.netlify.app/)
+### Amazon Clone
+![Amazon Clone Screenshot](link-to-amazon-clone-screenshot)
 A clone of the Amazon website, featuring dynamic shopping cart functionality.
+[Visit Amazon Clone](https://amzonz.netlify.app/)
 
-### [Evangadi Forums](https://evangadi-forumz2024.netlify.app/)
+### Zele Netflix Movies
+![Zele Netflix Movies Screenshot](link-to-zele-netflix-movies-screenshot)
 A movie browsing application similar to Netflix, featuring a vast catalog of movies.
+[Visit Zele Netflix Movies](https://zelenetflixmovies.netlify.app/)
 
-I’m best reached via email. I’m always open to interesting conversations and collaboration.
 
 - 📧 Email: [enana082014@gmail.com](mailto:enana082014@gmail.com)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/zelalem-wondimu-126b592b4/](https://www.linkedin.com/in/zelalem-wondimu-126b592b4/)
