@@ -1,8 +1,9 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Zele916&color=blue" alt="Profile Views">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&color=FFD700&center=true&vCenter=true&width=700&height=100&duration=5000&lines=Welcome!+Let's+Code+the+Future+Together.;I'm+Zelalem+Wondimu." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&color=FFD700&center=true&vCenter=true&width=700&height=100&duration=3000&lines=Welcome!+Let's+Code+the+Future+Together.;I'm+Zelalem+Wondimu." />
 </h1>
+
 
 
 
