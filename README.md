@@ -1,9 +1,8 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Zele916&color=blue" alt="Profile Views">
-<svg width="500" height="70" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="black" />
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code" font-size="35" fill="#FFD700">Your text here</text>
-</svg>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&color=FFC300&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Zelalem+Wondimu!;" />
+</h1>
 
 
 
