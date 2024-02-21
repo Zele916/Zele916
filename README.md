@@ -1,8 +1,9 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Zele916&color=blue" alt="Profile Views">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=4CAF50&center=true&vCenter=true&width=700&height=100&duration=5000&lines=Welcome!+I'm+Zelalem+Wondimu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=4CAF50&center=true&vCenter=true&width=700&height=100&duration=7000&lines=Welcome!+I'm+Zelalem+Wondimu;" />
 </h1>
+
 
 ### I'm a Full-Stock Web Development Enthusiast driven by a passion for creating digital experiences that leave a lasting impact. My journey transcends mere code—it is about weaving the fabric of engaging user experiences, igniting transformations, and fostering innovation. As we journey together, our collaborative efforts will turn bold ideas into vivid realities, piece by piece, line by line.
 
