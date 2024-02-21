@@ -7,10 +7,10 @@
 
 ### I'm a Full-Stock Web Development Enthusiast driven by a passion for creating digital experiences that leave a lasting impact. My journey transcends mere code—it is about weaving the fabric of engaging user experiences, igniting transformations, and fostering innovation. As we journey together, our collaborative efforts will turn bold ideas into vivid realities, piece by piece, line by line.
 
+- In the realm of development, I have refined a versatile skill set that includes:
+
 - ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB) Constructing user interfaces with a declarative, efficient, and flexible JavaScript library.
-- 
-In the realm of development, I have refined a versatile skill set that includes:
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) Crafting the skeletal framework of the web with semantic and accessible markup.
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) Crafting the skeletal framework of the web with semantic and accessible markup.
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) Styling with precision, bringing visual designs to life with responsive and dynamic interfaces.
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) Engineering interactive and high-performing user experiences.
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) Accelerating development with responsive, mobile-first projects on the web.
