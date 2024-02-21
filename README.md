@@ -1,6 +1,7 @@
-### Welcome 👋
+### 
+<details>
+  <summary><b>  Welcome 👋I'm Zelalem Wondimu </b></summary>
 
-#  I'm [Zelalem Wondimu] 👋
 
 ## About Me
 I'm passionate about web development, My journey is about more than just coding; it’s about crafting experiences that resonate deeply and inspire change. Together, let’s embark on this adventure, transforming bold visions into tangible realities. With every line of code, we’re building a better, more connected digital future. I've honed my skills in [HTML5
