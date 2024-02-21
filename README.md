@@ -1,6 +1,7 @@
 ###  Welcome 👋I'm Zelalem Wondimu 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Zele916.Zele916&left_color=green&right_color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=Zele916&color=blue)
+
 
 
 ![Profile Picture](https://github.com/Zele916.png?size=100)
