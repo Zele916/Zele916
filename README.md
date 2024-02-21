@@ -23,33 +23,20 @@ As I continue to advance my skills and contribute to the tech community, I am ke
 
 Here are some of the projects I've worked on:
 
-### Evangadi-Forum
-![Evangadi-Forum Screenshot](link-to-evangadi-forum-screenshot)
-A community forum for discussions on various topics.
-[Visit Evangadi-Forum](https://evangadi-forumz2024.netlify.app/)
-
-### Amazon Clone
-![Amazon Clone Screenshot](link-to-amazon-clone-screenshot)
+### [Amazon Clone](https://amzonz.netlify.app/)
 A clone of the Amazon website, featuring dynamic shopping cart functionality.
-[Visit Amazon Clone](https://amzonz.netlify.app/)
 
-### Zele Netflix Movies
-![Zele Netflix Movies Screenshot](link-to-zele-netflix-movies-screenshot)
+### [Evangadi-Forum](https://evangadi-forumz2024.netlify.app/)
+A community forum for discussions on various topics.
+
+### [Zele Netflix Movies](https://zelenetflixmovies.netlify.app/)
 A movie browsing application similar to Netflix, featuring a vast catalog of movies.
-[Visit Zele Netflix Movies](https://zelenetflixmovies.netlify.app/)
 
+I’m best reached via email. I’m always open to interesting conversations and collaboration.
 
 - 📧 Email: [enana082014@gmail.com](mailto:enana082014@gmail.com)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/zelalem-wondimu-126b592b4/](https://www.linkedin.com/in/zelalem-wondimu-126b592b4/)
 
-
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
 
